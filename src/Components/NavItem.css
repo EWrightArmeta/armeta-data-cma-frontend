@@ -1,0 +1,15 @@
+.navItem {
+    display: flex;
+    justify-content: flex-start;
+    align-items: flex-start;
+}
+
+.navIcon {
+    padding-top: 20;
+}
+
+.navText {
+    font-size: 3vmin;
+    color: #7D91AB;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}

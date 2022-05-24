@@ -1,0 +1,62 @@
+.navItems {
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start; 
+    border-width: 50px;
+}
+
+.navBar{
+    vertical-align: middle;
+    border-right: white;
+    background-color: #0C3260;
+    width: 20%;
+    height: 100%;
+    float: left
+}
+
+.logo{
+    flex-direction: column;
+    justify-content: flex-end;
+    align-items: center;
+    margin-top: auto;
+    width: 75%;
+    height: auto;
+}
+
+.homeIcon{
+    height:15%;
+    display: flex;
+    align-items: center;
+    justify-content: center;;
+}
+
+.rightSide{
+    flex-direction: column;
+    width: 80%;
+    height: 100%;
+    float: right;
+}
+
+.migrationHeader{
+    height:15%;
+    width: 100%;
+}
+
+.migrationBody{
+    height: 85%;
+    width: 100%;
+    margin-top: 10%;
+    float: right;
+}
+
+.mTileChoices {
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly; 
+}
+
+.selectTitle {
+    font-size: 5vmin;
+    color: white;
+    padding-bottom: 3%;
+}
