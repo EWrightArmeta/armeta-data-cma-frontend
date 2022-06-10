@@ -17,11 +17,11 @@ function Icon(props){
         paddingLeft: 10
     }
 
-    const [isActive, setIsActive] = useState(false);
+    //const [isActive, setIsActive] = useState(false);
 
-    const handleClick = () => {
-        setIsActive()
-    }
+    // const handleClick = () => {
+    //     setIsActive()
+    // }
 
 
     if (props.name === "Source Setup"){

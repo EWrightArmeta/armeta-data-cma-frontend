@@ -21,6 +21,7 @@
     margin-top: auto;
     width: 75%;
     height: auto;
+    text-align: center;
 }
 
 .homeIcon{
@@ -59,4 +60,5 @@
     font-size: 5vmin;
     color: white;
     padding-bottom: 3%;
+    text-align: center;
 }
